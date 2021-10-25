@@ -6,5 +6,4 @@ For this assignment, you'll create a workout tracker. You have already been prov
 <!-- https://devcenter.heroku.com/articles/deploying-nodejs - Deploying in Heroku -->
 --------------------------------
 
-### ResponseUI Solution - Desktop, Tablet & Mobile Views
 Login Screen: <img src= "./images/FirstTimeLogin.png"> <br>
