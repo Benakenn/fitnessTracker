@@ -9,12 +9,5 @@ For this assignment, you'll create a workout tracker. You have already been prov
 ### ResponseUI Solution - Desktop, Tablet & Mobile Views
 Login Screen: <img src= "./images/FirstTimeLogin.png"> <br>
 
-## Grading Requirements
-
-You are required to submit the following:
-```
-✅ The URL to the deployed application
-✅ The URL to the GitHub repository
-```
 # Resources: 
 Submission: 🗂️ [Github Repository](https://github.com/cakspri/Fitness-Tracker) |  📄[Heroku Page](https://calm-cove-09758.herokuapp.com/)
