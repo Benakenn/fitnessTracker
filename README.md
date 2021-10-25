@@ -8,6 +8,3 @@ For this assignment, you'll create a workout tracker. You have already been prov
 
 ### ResponseUI Solution - Desktop, Tablet & Mobile Views
 Login Screen: <img src= "./images/FirstTimeLogin.png"> <br>
-
-# Resources: 
-Submission: 🗂️ [Github Repository](https://github.com/cakspri/Fitness-Tracker) |  📄[Heroku Page](https://calm-cove-09758.herokuapp.com/)
