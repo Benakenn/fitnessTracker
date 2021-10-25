@@ -11,7 +11,7 @@ First Time Login Screen: <img src= "./images/FirstTimeLogin.png"> <br>
 Drop Down Options: <img src= "./images/DropDown.png"> <br>
 Resistance Wizard Screen: <img src= "./images/Type-Cardio.png"> <br>
 Cardio Wizard Screen: <img src= "./images/Type-Cardio.png"> <br>
-Workout Dashboard Screen: <img src= "./images/WorkoutDashbaord.png"> <br>
+
 
 ## Grading Requirements
 
